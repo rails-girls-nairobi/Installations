@@ -1,4 +1,4 @@
-# Installing rails
+# Installing Rails in Linux
 1. Install curl
 
 If you are running Ubuntu or any debian based distro run
